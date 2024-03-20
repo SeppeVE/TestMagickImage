@@ -1,0 +1,15 @@
+D:\test\MagickTest.exe
+D:\test\MagickTest.dll
+D:\test\MagickTest.deps.json
+D:\test\MagickTest.runtimeconfig.json
+D:\test\MagickTest.pdb
+D:\test\Magick.NET-Q16-AnyCPU.dll
+D:\test\Magick.NET.Core.dll
+D:\test\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+D:\test\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+D:\test\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+D:\test\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+D:\test\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+D:\test\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+D:\test\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+D:\test\runtimes\win-x86\native\Magick.Native-Q16-x86.dll

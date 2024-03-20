@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikIrSQRXS+0Jgy6+BnJa303ksMJUv8l+STfErmJrwZZTTvbg0fc1+tDshI1yRZORlQozrK5yWt5PSRjDXCF+IQ==",
+  "success": true,
+  "projectFilePath": "D:\\TestMagickImage\\MagickTest\\MagickTest\\MagickTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seppe Van Eynde\\.nuget\\packages\\magick.net-q16-anycpu\\13.6.0\\magick.net-q16-anycpu.13.6.0.nupkg.sha512",
+    "C:\\Users\\Seppe Van Eynde\\.nuget\\packages\\magick.net.core\\13.6.0\\magick.net.core.13.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

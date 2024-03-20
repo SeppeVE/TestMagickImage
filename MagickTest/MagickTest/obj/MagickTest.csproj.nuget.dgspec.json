@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TestMagickImage\\MagickTest\\MagickTest\\MagickTest.csproj": {}
+  },
+  "projects": {
+    "D:\\TestMagickImage\\MagickTest\\MagickTest\\MagickTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TestMagickImage\\MagickTest\\MagickTest\\MagickTest.csproj",
+        "projectName": "MagickTest",
+        "projectPath": "D:\\TestMagickImage\\MagickTest\\MagickTest\\MagickTest.csproj",
+        "packagesPath": "C:\\Users\\Seppe Van Eynde\\.nuget\\packages\\",
+        "outputPath": "D:\\TestMagickImage\\MagickTest\\MagickTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Seppe Van Eynde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Magick.NET-Q16-AnyCPU": {
+              "target": "Package",
+              "version": "[13.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
